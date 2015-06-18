@@ -1,0 +1,14 @@
+{
+  "name": "express-cors-example",
+  "version": "0.0.1",
+  "description": "A small example of how to set the correct http headers with express.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan M. Hethey",
+  "license": "CC-BY-SA",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
